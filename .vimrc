@@ -28,7 +28,7 @@ filetype plugin indent on
 filetype plugin on
 syntax on
 set encoding=utf-8
-color leet2
+color leet
 hi Normal guibg=NONE ctermbg=NONE
 
 " History
