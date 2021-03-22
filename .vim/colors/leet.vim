@@ -2,7 +2,7 @@ hi clear
 if exists("syntax_on")
     syntax reset
 endif
-let g:colors_name="leet2"
+let g:colors_name="leet"
 
 hi Normal       term=none cterm=none ctermfg=gray           ctermbg=none
 hi NonText      term=none cterm=none ctermfg=61             ctermbg=none
